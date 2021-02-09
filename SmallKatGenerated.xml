@@ -5,8 +5,8 @@
 		<file>Bowler/MediumCad.groovy</file>
 	</cadEngine>
 	<driveEngine>
-		<git>https://github.com/madhephaestus/SmallKatGenerated.git</git>
-		<file>walking.groovy</file>
+		<git>https://github.com/OperationSmallKat/SmallKat_V2.git</git>
+		<file>Bowler/DynamicWalkingV2.groovy</file>
 	</driveEngine>
 
 <name>SmallKatGenerated</name>
@@ -976,7 +976,7 @@
 	<type>hidfast</type>
 	<index>14</index>
 	<scale>-0.512698413</scale>
-	<upperLimit>170.11753731343288</upperLimit>
+	<upperLimit>180.0</upperLimit>
 	<lowerLimit>3.749999999999994</lowerLimit>
 	<upperVelocity>1.0E8</upperVelocity>
 	<lowerVelocity>-1.0E8</lowerVelocity>
@@ -1033,7 +1033,7 @@
 	<index>13</index>
 	<scale>-0.512698413</scale>
 	<upperLimit>180.0</upperLimit>
-	<lowerLimit>1.0</lowerLimit>
+	<lowerLimit>8.0</lowerLimit>
 	<upperVelocity>1.0E8</upperVelocity>
 	<lowerVelocity>-1.0E8</lowerVelocity>
 	<staticOffset>89.71898853242566</staticOffset>
